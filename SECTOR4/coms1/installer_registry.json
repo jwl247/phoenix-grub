@@ -1,0 +1,166 @@
+{
+  "configs": {
+    "153b71d1fbd2fd47f47838a7e21a5e7787399c29e245a720ab0696f9047507fd": {
+      "filepath": "/etc/apache2/conf-available/javascript-common.conf",
+      "filename": "javascript-common.conf",
+      "type": "Generic",
+      "ports": [],
+      "paths": [],
+      "settings": {},
+      "scanned": "2026-02-26T05:33:54.530935"
+    },
+    "c1c54cb298ff69ea5a6ee83d05d0cd1f642ef3cd510def72732d9f96465d5311": {
+      "filepath": "integrated_guardian.py",
+      "filename": "integrated_guardian.py",
+      "type": "Generic",
+      "ports": [
+        0
+      ],
+      "paths": [],
+      "settings": {},
+      "scanned": "2026-02-26T05:33:54.542723"
+    },
+    "8cd4d3610d988fac40bc9b37bfe5eff84bbac6bcae2daf8558508886adaeeaec": {
+      "filepath": "syncthing_module.py",
+      "filename": "syncthing_module.py",
+      "type": "Generic",
+      "ports": [
+        22000
+      ],
+      "paths": [],
+      "settings": {},
+      "scanned": "2026-02-26T05:33:54.545525"
+    },
+    "27903550e73533c9e310585a3fc233a17dd05483a7ad9c44a0af419271fb990f": {
+      "filepath": "freewheeling.py",
+      "filename": "freewheeling.py",
+      "type": "Generic",
+      "ports": [
+        128,
+        10,
+        12,
+        15,
+        20
+      ],
+      "paths": [],
+      "settings": {},
+      "scanned": "2026-02-26T05:33:54.565172"
+    },
+    "e4d450d5a6e20f2d0bdef7ee0288b297baca8e847ad74939e16e2f3cacc0697f": {
+      "filepath": "quadengine.py",
+      "filename": "quadengine.py",
+      "type": "Generic",
+      "ports": [
+        20
+      ],
+      "paths": [],
+      "settings": {},
+      "scanned": "2026-02-26T05:33:54.567174"
+    },
+    "4cc24984dc571890ea4f34562c010d8d4e3227ff0a9fa5489419a5bf83d76a9b": {
+      "filepath": "propcoms.py",
+      "filename": "propcoms.py",
+      "type": "Generic",
+      "ports": [],
+      "paths": [],
+      "settings": {},
+      "scanned": "2026-02-26T05:33:54.597754"
+    },
+    "6761d420e440eed92de8aa84c884f07ae8a412eb69137c371dfd49a1ab1cc78d": {
+      "filepath": "helix_api.py",
+      "filename": "helix_api.py",
+      "type": "Helix",
+      "ports": [],
+      "paths": [],
+      "settings": {},
+      "scanned": "2026-02-26T05:33:54.639713"
+    },
+    "e6ea5454280727cb2e30100b49a1b16b1ab041c555dc9762dd8603fd06200f39": {
+      "filepath": "franken.py",
+      "filename": "franken.py",
+      "type": "Generic",
+      "ports": [
+        16
+      ],
+      "paths": [],
+      "settings": {},
+      "scanned": "2026-02-26T05:33:54.670551"
+    },
+    "1dba093aa214da4cd5e7bc05f6ce26813b0787c92149b19ca7513e83b9948d06": {
+      "filepath": "conductor_sync.py",
+      "filename": "conductor_sync.py",
+      "type": "Generic",
+      "ports": [],
+      "paths": [],
+      "settings": {},
+      "scanned": "2026-02-26T05:33:54.691126"
+    }
+  },
+  "ports": {
+    "0": [
+      {
+        "config": "c1c54cb298ff69ea5a6ee83d05d0cd1f642ef3cd510def72732d9f96465d5311",
+        "service": "Generic",
+        "file": "integrated_guardian.py"
+      }
+    ],
+    "22000": [
+      {
+        "config": "8cd4d3610d988fac40bc9b37bfe5eff84bbac6bcae2daf8558508886adaeeaec",
+        "service": "Generic",
+        "file": "syncthing_module.py"
+      }
+    ],
+    "128": [
+      {
+        "config": "27903550e73533c9e310585a3fc233a17dd05483a7ad9c44a0af419271fb990f",
+        "service": "Generic",
+        "file": "freewheeling.py"
+      }
+    ],
+    "10": [
+      {
+        "config": "27903550e73533c9e310585a3fc233a17dd05483a7ad9c44a0af419271fb990f",
+        "service": "Generic",
+        "file": "freewheeling.py"
+      }
+    ],
+    "12": [
+      {
+        "config": "27903550e73533c9e310585a3fc233a17dd05483a7ad9c44a0af419271fb990f",
+        "service": "Generic",
+        "file": "freewheeling.py"
+      }
+    ],
+    "15": [
+      {
+        "config": "27903550e73533c9e310585a3fc233a17dd05483a7ad9c44a0af419271fb990f",
+        "service": "Generic",
+        "file": "freewheeling.py"
+      }
+    ],
+    "20": [
+      {
+        "config": "27903550e73533c9e310585a3fc233a17dd05483a7ad9c44a0af419271fb990f",
+        "service": "Generic",
+        "file": "freewheeling.py"
+      },
+      {
+        "config": "e4d450d5a6e20f2d0bdef7ee0288b297baca8e847ad74939e16e2f3cacc0697f",
+        "service": "Generic",
+        "file": "quadengine.py"
+      }
+    ],
+    "16": [
+      {
+        "config": "e6ea5454280727cb2e30100b49a1b16b1ab041c555dc9762dd8603fd06200f39",
+        "service": "Generic",
+        "file": "franken.py"
+      }
+    ]
+  },
+  "paths": {},
+  "services": {},
+  "conflicts_log": [],
+  "friendships": {}
+}

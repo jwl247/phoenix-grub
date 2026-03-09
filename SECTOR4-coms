@@ -1,0 +1,17 @@
+The main actors, franken2.py, freewheeling, integrated_guardians.py, propcoms.py and the quadengine.py are peered together as a team.
+franken2.py is LEAD. loadbalance, pcs stage of the data, overflow and medic are some of his duties. 
+    frank is Frankenstien made up of several scripts and has been testy in at and around Ring 0
+    A version of him is currently running in preparations for the final assembly.
+freewheeling.py carrys the stages for the prefetch. he is a specialist. He is a duece and a half Helix. Helix is a custom cache handler of my own design and is shaped like a helix.
+    Helix in this configuration has benched between 600-687k ops/s phoronix while zlib 6 and her thermal dynamics L1 L2 L3 all set to the minimum thermal tier. that bench is roughly 1/6 of her potential.
+integrated_guardian is a drsftee from a difrent app. brought in for security purposes. he and his cohort guard ports and config files. they together register their counter parts in the coms directory they inhabit.
+    this isnt the polished file so residual code still exists there, but doesnt interfere with his present duties.
+Propcoms is the communications officer on deck, he handles the pcs reception and parse. he handle all communications for the ring,
+quadengine makes sure that all data stays in a quadralingual status while in its AO. Quadralingual packets are of my own design, 4 languages simultanious which does not matter this makes all this possible.
+the combine thrupute of these scripts thru rigur and trial is 100% I tried to disprove every claim i've made with due diligence. there are global files and bi products of registry among other things in these directorys
+which i'll sort as i can being a solo rookie, having little formal git hub exp. or two cents in my head or i'd realize how someone is getting buy my fully hardened and resilient security. 
+
+
+I'll finish with this. I have been a commercial ironworker for going on 25 years owned my own company and built millions of dollars worth of steel from ground to sheet i hope you'll; join me in this adventure 
+we are going to change the face of computing. projected speed of the system will far exceed and monitors capability and well over 50x faster than ANY thing on the market today that doesn't have super in front of it 
+opensource for public use take it beat it up try to break it. prove me wrong i'll tell you this if you lijmit her because your timer isnt fast enough you'll slower her to as fast as youd like. 
