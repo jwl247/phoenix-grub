@@ -1,0 +1,8 @@
+{
+  "binding": "phoenix_db",
+  "database_name": "phoenix_db",
+  "database_id": "7e72f6ba-c492-4d97-8820-9b06f7ca5f05",
+  "account_id": "4190f723a3b308062bed1b797e70e527",
+  "migrated_from": "phoenix_dev_db",
+  "migrated_at": "2026-03-09"
+}
